@@ -17,6 +17,8 @@ public class Advertiserdashboard {
 	
 	driver.findElement(By.cssSelector("input[id=':r0:']")).sendKeys("aoke@turmsadrain.com");
 	driver.findElement(By.cssSelector("input[id=':r1:']")).sendKeys("@Team2016");
+	
+	driver.findElement(By.className("jjjj"));
 		
 
 	}
