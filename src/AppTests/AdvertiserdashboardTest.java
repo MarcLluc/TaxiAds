@@ -1,3 +1,4 @@
+package AppTests;
 
 
 import org.openqa.selenium.By;
@@ -7,7 +8,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
-public class Advertiserdashboard {
+public class AdvertiserdashboardTest {
 
 	
 		// TODO Auto-generated method stub
