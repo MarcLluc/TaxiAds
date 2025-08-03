@@ -5,6 +5,7 @@
     <classes>
       <class name="AppTests.AdvertiserdashboardTest">
         <methods>
+          <include name="Information_FieldsTA_846"/>
           <include name="VerifyLoginlogoutTA_817"/>
         </methods>
       </class> <!-- AppTests.AdvertiserdashboardTest -->
