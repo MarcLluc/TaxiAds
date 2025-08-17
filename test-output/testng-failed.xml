@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AppTests.AdvertiserdashboardTest">
+      <class name="AppTests.CostVerification_TA_1011">
         <methods>
-          <include name="Information_FieldsTA_846"/>
-          <include name="VerifyLoginlogoutTA_817"/>
+          <include name="Verify_Cost_for_Static_Image_PDD_TA_1005"/>
         </methods>
-      </class> <!-- AppTests.AdvertiserdashboardTest -->
+      </class> <!-- AppTests.CostVerification_TA_1011 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
